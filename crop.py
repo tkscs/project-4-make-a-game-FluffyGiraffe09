@@ -1,7 +1,7 @@
 from PIL import Image
 import numpy as np
 
-names = ["bomb", "candy", "cheese", "coin", "jar"]
+names = ["ball2", "ball1", "shielded_jar", "shield", "bomb", "candy", "cheese", "coin", "jar"]
 
 for name in names:
     if name == "candy":
